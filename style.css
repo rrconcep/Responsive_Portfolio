@@ -1,0 +1,23 @@
+.navbar{
+    background-color: #ffc107!important;
+}
+
+
+.nav-link {
+    color: white;
+}
+
+.jumbotron {
+    background-color: #ffc107;
+    border-radius: 0;
+    color: white;
+}
+
+.h1, h1{
+    font-size: 3.5em;
+}
+
+.btn, btn-success{
+    background-color: #007bff;
+    border-color: #007bff;
+}
